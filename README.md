@@ -60,16 +60,7 @@ Tutorial on Hadoop: [Apache Hadoop - Tutorial](http://www.vogella.com/tutorials/
 
 ## To show code snippets
  ~~~
- a b c
+print("Hello, World!")
  ~~~
 
- ## Download the project  
-  ```
-  $ git clone https://github.com/PredixDev/predix-microservice-cf-spring.git  
-  
-  $ cd predix-microservice-cf-spring
-  
-  $ mvn clean package  
-  
-    note: mvn clean install may run integration tests against services you may not have set up yet
-  ```
+ 
