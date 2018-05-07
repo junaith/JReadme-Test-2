@@ -58,5 +58,18 @@ Tutorial on Hadoop: [Apache Hadoop - Tutorial](http://www.vogella.com/tutorials/
 ### Big Data Hadoop Tutorial for Beginners
 ![https://www.janbasktraining.com/blog/wp-content/uploads/2017/10/h2.jpg](https://www.janbasktraining.com/blog/wp-content/uploads/2017/10/h2.jpg)
 
+## To show code snippets
+ ~~~
+ a b c
+ ~~~
 
-
+ ## Download the project  
+  ```
+  $ git clone https://github.com/PredixDev/predix-microservice-cf-spring.git  
+  
+  $ cd predix-microservice-cf-spring
+  
+  $ mvn clean package  
+  
+    note: mvn clean install may run integration tests against services you may not have set up yet
+  ```
