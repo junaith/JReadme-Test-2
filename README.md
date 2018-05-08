@@ -46,10 +46,10 @@ who is responsible for a service.
 ## Displaying data in a table format with hyperlinks
 | Project |  Note | 
 | ------------- | :----- |
-| [predix-microservice-cf-spring](https://github.com/PredixDev/predix-microservice-cf-spring) | a java spring microservice template |
-| [predix-microservice-cf-jsr](https://github.com/PredixDev/predix-microservice-cf-jsr) | a java jsr REST service microservice template |
-| [predix-boot-dsp-cf](https://github.com/PredixDev/predix-microservice-templates) | will be deprecated in June 2016 |
-| [predix-microservice-cf-rabbitmqconsumer](https://github.com/predixdev/rabbitmq-consumer-template) | a java rabbitmq consumer microservice template |
+| [Tutorial on Python](https://docs.python.org/3/tutorial/) | The Python Tutorial|
+| [Hadoop Tutorial](https://www.cloudera.com/developers/get-started-with-hadoop-tutorial.html) | The “Getting Started with Hadoop” Tutorial |
+| [Data Science Tutorial](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) | A Complete Tutorial to Learn Data Science with Python from Scratch |
+| [Tutorial on Redis ](https://www.w3resource.com/redis/) | Redis Tutorial |
 
 ## Displaying text with hyperlink
 Tutorial on Hadoop: [Apache Hadoop - Tutorial](http://www.vogella.com/tutorials/ApacheHadoop/article.html)
